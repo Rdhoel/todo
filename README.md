@@ -1,6 +1,6 @@
-Run application using internal php web-server
-   1. pull original files
-   2. run php -S 127.0.0.1:8080 -t /PATH/TO/FILES
+Run application using internal php web-server:
+   1. Pull original files
+   2. Run php -S 127.0.0.1:8080 -t /PATH/TO/FILES
    
 API futures
  Using Apache:
