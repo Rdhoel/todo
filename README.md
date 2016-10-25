@@ -4,6 +4,7 @@ Run application using internal php web-server
    
 API futures
  Using Apache:
+  
   GET - URL/items   - to get all elements
 
   GET - URL/items/1 - to get element '1'
@@ -15,6 +16,7 @@ API futures
   DELETE - URL/items/1 - delete element '1'
 
  Using internal php web-server:
+  
   GET - URL/items.php   - to get all elements
 
   GET - URL/items.php/1 - to get element '1'
