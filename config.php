@@ -6,4 +6,4 @@ $query = $db->query("CREATE TABLE items
                                text TEXT,
                                done INTEGER);
                               ");
-//$st = $db->query('SELECT text FROM items');
+$st = $db->query('SELECT text FROM items');
