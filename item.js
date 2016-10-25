@@ -31,9 +31,6 @@ function SendForm(formid, fieldnames, action) {
             }
 
             http.send(null);
-        } else {
-            // We reached our target server, but it returned an error
-
         }
     };
     request.send(data);
@@ -57,9 +54,6 @@ function GetForm(action) {
                 
             }
             http.send(null);
-        } else {
-            // We reached our target server, but it returned an error
-
         }
     };
     request.send();
