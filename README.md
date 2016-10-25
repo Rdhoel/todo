@@ -1,8 +1,13 @@
 GET - URL/items   - to get all elements
+
 GET - URL/items/1 - to get element '1'
+
 POST - URL/items  - create element '1'
+
 PUT - URL/items/1 - update element '1'
+
 DELETE - URL/items/1 - delete element '1'
+
 
 Create a single page application that doesn’t do anything except allowing to manage a list of tasks. Interface of the application might look like this. Tasks must be stored in the database. User should be able to manage (create, read, update, delete) tasks without page refresh.
 
