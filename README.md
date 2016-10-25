@@ -2,7 +2,8 @@ Run application using internal php web-server:
    1. Pull original files
    2. Run php -S 127.0.0.1:8080 -t /PATH/TO/FILES
    
-API futures
+API features
+
  Using Apache:
   
   GET - URL/items   - to get all elements
